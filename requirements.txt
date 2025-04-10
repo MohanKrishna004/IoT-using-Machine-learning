@@ -1,8 +1,4 @@
 streamlit
 pandas
-ann
-AdaBoost
-pandas
-lstm
 scikit-learn
 numpy
