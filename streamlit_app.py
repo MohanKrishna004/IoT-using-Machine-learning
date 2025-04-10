@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('Anamoly Detection')
+st.title('Smart Home:)')
 
-st.write('Hello world!')
+st.info('App for anamoly detection')
