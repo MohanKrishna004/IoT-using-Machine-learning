@@ -1,7 +1,6 @@
 streamlit
 pandas
-Random forest
-Decision tree
+ann
 AdaBoost
 pandas
 lstm
