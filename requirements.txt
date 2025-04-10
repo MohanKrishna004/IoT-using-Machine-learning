@@ -3,8 +3,6 @@ pandas
 Random Forest
 Decision Tree
 AdaBoost
-Support Vector Machine (SVM)
-Artificial Neural Network (ANN)
 LSTM autoencoders
 pandas
 scikit-learn
