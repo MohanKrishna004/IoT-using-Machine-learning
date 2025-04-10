@@ -1,9 +1,9 @@
 streamlit
 pandas
-Random Forest
-Decision Tree
+Random forest
+Decision tree
 AdaBoost
-LSTM autoencoders
 pandas
+lstm
 scikit-learn
 numpy
