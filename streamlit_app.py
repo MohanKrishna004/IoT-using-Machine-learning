@@ -6,6 +6,6 @@ st.title('Smart Home:)')
 st.info('App for anamoly detection')
 
 with st.expander('Data'):
-  st.write('RAW DATA')
+  st.write('**Raw Data**')
 
 
