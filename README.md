@@ -20,6 +20,11 @@ This project introduces a robust anomaly detection system powered by machine lea
 - Evaluates performance using critical metrics: **Weighted Precision, Recall, and F1 Score**.
 - Effectively detects various attack types, including data exfiltration, keylogging, and service scanning.
 
+<img width="1536" height="1024" alt="System Architecture" src="https://github.com/user-attachments/assets/0286e964-fdaf-451b-bbc3-c57cf7ba0803" />
+
+<img width="1536" height="1024" alt="ADS Dashboard" src="https://github.com/user-attachments/assets/26b414fe-0bd9-4d66-b9d0-0df5f1442e1d" />
+
+
 The results demonstrate that machine learning models can significantly improve the security of smart home environments by:
 - Detecting network anomalies in real-time
 - Providing immediate alerts to users 
