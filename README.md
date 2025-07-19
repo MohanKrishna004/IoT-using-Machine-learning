@@ -1,32 +1,42 @@
-#IoT-using-machine learning
+# 🏠🔒 IoT Anomaly Detection Using Machine Learning Techniques
 
-for anamoly detection
+Harness the power of Machine Learning to secure IoT environments by identifying suspicious behavior in real-time — protecting your smart devices from unseen threats.
 
-## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ads-iot.streamlit.app/)
+## 📚 Abstract
 
-## GitHub Codespaces
+The proliferation of smart homes has led to widespread adoption of interconnected Internet of Things (IoT) devices, offering enhanced convenience and automation. However, this connectivity introduces substantial security challenges, as IoT devices remain prime targets for cyberattacks. 
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
+This project introduces a robust anomaly detection system powered by machine learning to proactively identify malicious activities within smart home networks. Leveraging the comprehensive **BoT-IoT dataset**, which mirrors real-world IoT botnet traffic, our system is trained and evaluated to ensure high reliability.
 
-##  ABSTRACT
+**Key Highlights:**
+- Utilizes advanced machine learning algorithms:
+  - 🌳 Random Forest
+  - 🌲 Decision Tree
+  - 🚀 AdaBoost
+  - 🧠 Artificial Neural Network (ANN)
+  - 🕸️ LSTM
+  - 💡 Autoencoder
+- Evaluates performance using critical metrics: **Weighted Precision, Recall, and F1 Score**.
+- Effectively detects various attack types, including data exfiltration, keylogging, and service scanning.
 
-Smart homes increasingly rely on interconnected Internet of Things (IoT) devices, offering 
-convenience and automation but raising significant security concerns. These devices are 
-vulnerable to various cyberattacks, making security a critical challenge. A machine learning 
-based anomaly detection system is proposed to identify malicious activities in smart home 
-networks. The system leverages the BoT-IoT dataset, a comprehensive benchmark dataset 
-reflecting real-world IoT botnet traffic, for training and evaluation.  
-Metrics like Weighted Precision, Recall and F1 score are compared and machine learning 
-algorithms are utilized, namely Random Forest, Decision Tree, AdaBoost, Artificial Neural 
-Network (ANN), LSTM, and Autoencoder. These algorithms effectively identify a variety of 
-attacks, including data exfiltration, keylogging, and service scanning, highlighting their 
-reliability in safeguarding smart home systems. 
-The findings underscore the potential of machine learning to enhance smart home security by 
-detecting anomalies and providing timely alerts to improve user safety and privacy. The 
-approach serves as a practical method to strengthen the security of current and future smart 
-home deployments, providing a robust layer of defence against emerging threats. 
+The results demonstrate that machine learning models can significantly improve the security of smart home environments by:
+- Detecting network anomalies in real-time
+- Providing immediate alerts to users 
+- Enhancing overall safety and privacy
 
-Keywords: Smart homes, IoT, Cybersecurity, Network anomaly detection, Machine learning, 
-Artificial Neural Network (ANN), BoT-IoT dataset 
+This approach serves as a practical and scalable method to fortify current and future smart home deployments against evolving cyber threats.
+
+
+
+## 🏷️ Keywords
+
+- Smart Homes
+- IoT
+- Cybersecurity
+- Network Anomaly Detection
+- Machine Learning
+- Artificial Neural Network (ANN)
+- BoT-IoT Dataset
+
+
