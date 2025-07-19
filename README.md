@@ -22,7 +22,8 @@ This project introduces a robust anomaly detection system powered by machine lea
 
 <img width="1536" height="1024" alt="System Architecture" src="https://github.com/user-attachments/assets/0286e964-fdaf-451b-bbc3-c57cf7ba0803" />
 
-<img width="1536" height="1024" alt="ADS Dashboard" src="https://github.com/user-attachments/assets/26b414fe-0bd9-4d66-b9d0-0df5f1442e1d" />
+<img width="1055" height="705" alt="Anamoly Detection Dashboard" src="https://github.com/user-attachments/assets/1ebcd285-6603-4e2a-9113-2ef9ee1db846" />
+
 
 
 The results demonstrate that machine learning models can significantly improve the security of smart home environments by:
